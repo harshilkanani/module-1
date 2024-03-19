@@ -1,0 +1,59 @@
+            MODULE: 1
+    SE – Overview of IT Industry
+
+1. What is software? What is software engineering?
+--> the software is a computer program that provides a set of instructions to execute a user’s commands and tell the computer what to do. 
+-->Software engineering is an engineering-based approach to software development.
+-->A software engineer is a person who applies the engineering design process to design, develop.
+
+
+2.Explain types of software?
+-->1.System Software
+ system software is software that directly operates the computer hardware and provides the basic functionality to the users as well as to the other software to operate smoothly.
+
+SYSTEM SOFTWARE TYPES:
+Operating System
+Language Processor
+Device Driver
+
+-->2.Application Software
+Software that performs special functions or provides functions that are much more than the basic operation of the computer is known as application software.
+
+APPLICATION SOFTWARE TYPES:
+General Purpose Software
+Customize Software
+Utility Software
+
+3.What is SDLC? Explain each phase of SDLC?
+--> software devlopment life cycle is used in Every Software Development Company.
+
+ SDLC phases:
+Planning & Analysis
+Define Requirements
+Design
+Development
+Testing
+Deployment
+Maintenance
+
+4.What is DFD? Create a DFD diagram on Flipkart.
+-->DFD is stands for Data Flow Diagram. The flow of data of a system or a process is represented by DFD.
+
+diagram:
+ 
+5.What is Flow chart? Create a flowchart to make addition of two numbers.
+-->A flowchart is a diagram that depicts a process, system or computer algorithm. 
+
+flowchart:
+
+ 
+
+6.What is Use case Diagram? Create a use-case on bill payment on paytm.
+-->A use case diagram is a graphical depiction of a user's possible interactions with a system.
+
+diagram:
+
+ 
+
+
+
